@@ -5,7 +5,7 @@ Project for gettting to know Git with support software:
 [![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)](https://jaktestowac.pl/git-dla-testerow)
 
 ## Technologies
-- Git v2.39.0
-- PyCharm v2022.3
-- Python v3.11.1
-- Windows v10 Pro
+- Git 2.39.0
+- PyCharm 2022.3
+- Python 3.11.1
+- Windows 10 Pro
