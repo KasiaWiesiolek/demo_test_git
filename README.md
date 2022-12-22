@@ -11,4 +11,4 @@ Project for getting to know Git with support software:
 - Windows 10 Pro
 
 ## External platforms
-[GitLab](https://gitlab.com) - repository hosting
+[GitLab](https://gitlab.com), [GitHub](https://github.com/) - repository hosting
