@@ -1,5 +1,5 @@
 # Demo Test Git
-Project for getting to know Git with support software:
+Project for getting to know Git with support software below
 
 ## Source
 [![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)](https://jaktestowac.pl/git-dla-testerow)
